@@ -4,6 +4,7 @@ import casper from '../assets/leaderBoard/casper.jpeg'
 import moaningMyrtle from '../assets/leaderBoard/moaningMyrtle.jpeg'
 import hulk from '../assets/leaderBoard/hulk.png'
 
+const React = require('react')
 
 export default function Leaderboard() {
     return(

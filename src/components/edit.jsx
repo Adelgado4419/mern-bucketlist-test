@@ -4,6 +4,7 @@ import Form from 'react-bootstrap/Form';
 import { useNavigate, useParams } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import '../styles.css';
+const React = require('react')
 
 export default function Edit() {
 
